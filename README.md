@@ -1,3 +1,3 @@
 # Banoqabil
 This is my first git repository 
-Author is raja Habib Nisar 
+Author is Raja Habib Nisar 
